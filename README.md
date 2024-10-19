@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hello, I'm Omar Farouk! 👋<br><br>
 I'm a **freelance web developer** and a student at **WE School of Applied Technology**. I'm passionate about front-end development and currently expanding my knowledge in back-end technologies. I enjoy building dynamic, responsive websites and love to explore new tools and frameworks.<br><br>
- 👨‍💻 Freelance Work:<br>I specialize in creating responsive and user-friendly web interfaces, and I'm always open to freelance projects that challenge me and help me grow.<br><br>
+# 👨‍💻 Freelance Work:<br>I specialize in creating responsive and user-friendly web interfaces, and I'm always open to freelance projects that challenge me and help me grow.<br><br>
 ## 💬 Fun fact:
 <br>When I'm not coding, I love learning about new web technologies and Playing Games! 🎨✨<br>
 
